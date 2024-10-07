@@ -1,0 +1,29 @@
+body{
+    background-color: #F7CC34;
+}
+#b{
+    display: flex;
+    margin-top: 90px;
+    padding-bottom: 20px;
+    margin-left: 3rem;
+    font-size: 21pt;
+    font-family:sans-serif;
+}
+.chc{
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: 5%;
+    padding-left: 10px;
+    padding-top: 1px;
+background-color: #f778348c;    
+width: 20%;
+height: 60%;
+}
+#container{
+    display: inline-block;
+    flex-wrap: wrap;
+    width: 25%;
+    position: absolute;
+    right: 20%;
+}
